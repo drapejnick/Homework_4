@@ -22,5 +22,4 @@ int SumNumber(int number)
     return result;
 }
 
-int sumNumber = SumNumber(numberN);
-Console.WriteLine("Сумма цифр в числе: " + sumNumber);
+Console.WriteLine("Сумма цифр в числе: " + SumNumber(numberN));
